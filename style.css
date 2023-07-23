@@ -1,0 +1,38 @@
+  body{
+    background-image: url("cheems.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Pacifico', cursive;
+  }
+  
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(122, 100, 42);
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: rgb(84, 68, 29);
+    float: none;
+    padding: 10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  p{
+    background-color: rgb(30, 27, 27);
+  }
+ 
